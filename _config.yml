@@ -23,7 +23,7 @@ repository               : "popovanatasha/portfolio"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Попова Наталья"
+  avatar           : "profile.png"
   name             : "Попова Наталья"
   bio              : "Bitrix-разработчик"
   location         : "Калининградская область"
