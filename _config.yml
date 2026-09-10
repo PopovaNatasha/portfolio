@@ -24,13 +24,10 @@ repository               : "popovanatasha/portfolio"
 author:
   # Biographic information
   avatar           : "Попова Наталья"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"
+  name             : "Попова Наталья"
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org"
+  location         : "Калининградская область"
+  email            : "popova_natashar@gmail.com"
 
 
   # Repositories and software development
