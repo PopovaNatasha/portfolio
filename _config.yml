@@ -1,5 +1,5 @@
 # Basic Site Settings
-locale                   : "ru"
+locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Попова Наталья / Портфолио"
 title_separator          : "-"
